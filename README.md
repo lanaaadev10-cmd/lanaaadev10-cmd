@@ -12,10 +12,13 @@ Seseorang yang memiliki rasa ingin tahu tinggi dan antusias untuk mendalami duni
 ![](https://nirzak-streak-stats.vercel.app/?user=lana dev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lana dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lana dev&theme=merko&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lana dev&icon=9&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lana dev&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
