@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lana Dev</h1>
 <h3 align="center"> Santri learner in technology 🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lanaaadev10-cmd&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
+  
 ---
 
 ## 🧠 About Me
@@ -20,22 +16,17 @@ Seseorang yang memiliki rasa ingin tahu tinggi dan antusias untuk mendalami duni
 
 <p align="center">
   <a href="https://instagram.com/foundineeee" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/yogimaulana10" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://tiktok.com/@yogimaulanaaaa10" target="_blank">
-    <img src="https://cdn.simpleicons.org/tiktok" height="40"/>
+    <img src="https://cdn.simpleicons.org/tiktok" height="35"/>
   </a>
 </p>
-
-<p align="center">
-📸 <b>Instagram</b> — Sharing daily life & learning journey  
-💼 <b>LinkedIn</b> — Professional profile & career updates  
-🎥 <b>TikTok</b> — Tech content & short insights  
-</p>
-
 
 ---
 
