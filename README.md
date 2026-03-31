@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Lana Dev</h1>
-<h3 align="center"> Santri Learner | Future Fullstack Developer</h3>
+<h1 align="center">Hi 👋, I'm Lana Dev</h1>
+<h3 align="center"> Santri learner in technology 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lanaaadev10-cmd&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,12 +9,7 @@
 
 ## 🧠 About Me
 
-Saya adalah seseorang yang memiliki rasa ingin tahu tinggi dan antusias dalam dunia teknologi 🚀
-Saat ini saya sedang fokus membangun skill di bidang:
-
-* 🌐 Web Development
-* 📱 Mobile Development
-* ⚙️ Backend & Database
+Seseorang yang memiliki rasa ingin tahu tinggi dan antusias untuk mendalami dunia teknologi demi meraih cita-cita yang diimpikan. Saat ini, saya sedang berada dalam perjalanan belajar (tahap pembelajaran) untuk membangun fondasi yang kuat.<br><br>Harapan & Komitmen :<br>Semoga dalam proses belajar ini, saya dapat terus menjaga konsistensi dan menikmati setiap tahapannya, sehingga apa yang saya impikan selama ini dapat terwujud menjadi kenyataan.
 
 🎯 **Goal:** Menjadi Fullstack Developer profesional
 🔥 **Mindset:** Konsisten > Sempurna
