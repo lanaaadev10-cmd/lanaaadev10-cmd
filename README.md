@@ -1,24 +1,60 @@
-# 💫 About Me:
-Seseorang yang memiliki rasa ingin tahu tinggi dan antusias untuk mendalami dunia teknologi demi meraih cita-cita yang diimpikan. Saat ini, saya sedang berada dalam perjalanan belajar (tahap pembelajaran) untuk membangun fondasi yang kuat.<br><br>Harapan & Komitmen :<br>Semoga dalam proses belajar ini, saya dapat terus menjaga konsistensi dan menikmati setiap tahapannya, sehingga apa yang saya impikan selama ini dapat terwujud menjadi kenyataan.
+# 💫 About Me
 
+Seseorang yang memiliki rasa ingin tahu tinggi dan antusias dalam mendalami dunia teknologi 🚀
+Saat ini saya sedang dalam tahap pembelajaran untuk membangun fondasi yang kuat.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/foundineeee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogimaulana10) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yogimaulanaaaa10) 
+💡 **Fokus utama saya:**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lana dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lana dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lana dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* Web Development
+* Mobile Development
+* Backend & Database
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lana dev&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
+🎯 **Harapan & Komitmen:**
+Saya ingin terus konsisten dalam belajar dan menikmati setiap prosesnya sampai tujuan saya tercapai.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lana dev&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/foundineeee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://linkedin.com/in/yogimaulana10)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok\&logoColor=white)](https://tiktok.com/@yogimaulanaaaa10)
+
+---
+
+## 💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=lanaaadev10-cmd\&theme=tokyonight\&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=lanaaadev10-cmd\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaaadev10-cmd\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=lanaaadev10-cmd\&theme=tokyonight\&no-frame=true\&no-bg=true)
+
+---
+
+## ✍️ Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=lanaaadev10-cmd\&icon=5\&color=6)
